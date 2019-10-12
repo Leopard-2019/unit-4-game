@@ -1,0 +1,98 @@
+header {
+    color: white;
+    background-color: tomato;
+    font-size: 30px;
+    text-justify: right;
+    display: inline
+}
+
+#par1 {
+    background: burlywood;
+    font-size: 20px;
+    text-justify: right;
+    display: inline;
+    color: white
+}
+
+.bx1 {
+    background: lightgreen;
+    width: 200px;
+    height: 100px;
+    color: white;
+}
+
+.m11 {
+    color: black;
+    font-weight: bold;
+    font-size: 24px
+}
+
+.bx2 {
+    background: lightskyblue;
+    color: black;
+}
+
+#bx3 {
+    width: 70px;
+    height: 70px;
+}
+
+.bx4 {
+    background: rgb(80, 136, 80);
+    width: 200px;
+    height: 20px;
+    color: white;
+}
+
+.bx5 {
+    background: rgb(80, 136, 80);
+    width: 200px;
+    height: 100px;
+    color: white;
+}
+
+.m22 {
+    background-color: white;
+    /* Green */
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: -150px;
+    border: 2px solid red;
+}
+
+.text1 {
+    margin-left: -150px;
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.text2 {
+    margin-left: -150px;
+    font-size: 12px;
+    text-align: center;
+    margin-top:-15px;
+    font-weight: bold;
+}
+
+.text3 {
+    margin-left: -300px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text4 {
+    margin-left: -300px;
+    font-size: 16px;
+    margin-top:-20px;
+    text-align: center;
+    margin-top:-20px;
+    font-weight: bold;
+}
