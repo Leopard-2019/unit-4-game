@@ -61,12 +61,12 @@ header {
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
-    margin-left: -150px;
+    margin-left: 120px;
     border: 2px solid red;
 }
 
 .text1 {
-    margin-left: -150px;
+    margin-left: 120px;
     font-size: 12px;
     text-align: center;
     font-weight: bold;
@@ -75,7 +75,7 @@ header {
 
 
 .text2 {
-    margin-left: -150px;
+    margin-left: 120px;
     font-size: 12px;
     text-align: center;
     margin-top:-15px;
@@ -83,14 +83,14 @@ header {
 }
 
 .text3 {
-    margin-left: -300px;
+    margin-left: -400px;
     font-size: 16px;
     text-align: center;
     font-weight: bold;
 }
 
 .text4 {
-    margin-left: -300px;
+    margin-left: -400px;
     font-size: 16px;
     margin-top:-20px;
     text-align: center;

@@ -67,7 +67,7 @@ $(".number").on("click", function () {
 // and the total score (wins - losses) obtained in previous plays as far as the whole game is not
 // reset when hitting the refresh button
 
-$("#rStart").on("click", function RStart() {
+$("#rStart").on("click", function Rstart() {
 
     mNumber = Math.floor(Math.random() * (102)) + 12;
     sum = 0;
