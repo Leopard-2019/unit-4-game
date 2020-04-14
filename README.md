@@ -16,6 +16,8 @@ have to guess numbers. This is how this game works:
      * When the player clicks one, the score counter is updated.
 
    4. The player wins if their total score matches the random number from the beginning of the game.
+   
+   ![](assets/images/crystal3.png)
 
    5. The player loses if their score goes above the random number.
 
