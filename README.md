@@ -20,6 +20,8 @@ have to guess numbers. This is how this game works:
    ![](assets/images/crystal3.png)
 
    5. The player loses if their score goes above the random number.
+   
+   ![](assets/images/crystal2.png)
 
    6. The game restarts whenever the player wins or loses.
 
