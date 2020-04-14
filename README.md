@@ -1,12 +1,14 @@
-CRYSTAL COLLECTOR- UNIT 4 GAME.
+# CRYSTAL COLLECTOR #
 
-In this assignment, A fun and interactive game call Crystal Collector has created in the web browsers.   In this game the player 
+A fun and interactive game call Crystal Collector has created in the web browsers.   In this game the player 
 have to guess numbers. This is how this game works:
 
 
    1. There are four crystals displayed as buttons on the page.
 
    2. The player is shown a random number at the start of the game.
+   
+   ![](assets/images/crystal1.png)
 
    3. When the player clicks on a crystal, it adds a specific amount of points to the player's total score. 
 
