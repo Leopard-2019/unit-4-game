@@ -30,3 +30,5 @@ have to guess numbers. This is how this game works:
 
    7. The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to 
       restart the game.
+      
+   This app is deployed at: https://leopard-2019.github.io/unit-4-game/
