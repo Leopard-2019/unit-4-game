@@ -1,7 +1,7 @@
 # CRYSTAL COLLECTOR #
 
-A fun and interactive game call Crystal Collector has created in the web browsers.   In this game the player 
-have to guess numbers. This is how this game works:
+A fun and interactive game called Crystal Collector has been created in the web browser.   In this game, the player 
+has to guess numbers. This is how this game works:
 
 
    1. There are four crystals displayed as buttons on the page.
